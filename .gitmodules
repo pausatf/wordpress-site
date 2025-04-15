@@ -1,0 +1,3 @@
+[submodule "themes/TheSource-theme"]
+	path = themes/TheSource-theme
+	url = https://github.com/pausatf/TheSource-theme.git
