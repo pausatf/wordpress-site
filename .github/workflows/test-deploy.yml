@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: PHP Lint
-        uses: overtrue/phplint@8.0
+        uses: overtrue/phplint@10.0
       - name: WordPress Coding Standards
         uses: 10up/wpcs-action@stable
       
